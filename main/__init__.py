@@ -22,4 +22,3 @@ text = ['a','b','123']
 for x in (range(len(text))):
     print(x,text[x])
 
-print("ceshiyong")
