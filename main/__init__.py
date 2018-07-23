@@ -21,4 +21,5 @@ print(dict['name'])
 text = ['a','b','123']
 for x in (range(len(text))):
     print(x,text[x])
-print("shilei")
+
+print("shilei hehe da")
